@@ -1,0 +1,881 @@
+{
+    "feed": [
+        {
+            "display": {
+                "displayName": "Eggplant Parmesan",
+                "images": [
+                    "https://lh4.ggpht.com/xZZEuIDceef99ukMWJdhjA2ts6nb0ScfFkVtprv5JIvH1WeHrbpDFQpgbjF1oE-C0scx04Hto-doyQX4n2RZzQ"
+                ],
+                "flag": "Start Planning Dinner Early",
+                "source": {
+                    "sourceRecipeUrl": "http://www.foodrepublic.com/recipes/eggplant-parmesan-recipe/",
+                    "sourceFaviconUrl": "http://static.yummly.com/favicon/favicon_FoodRepublic.ico",
+                    "sourceHttpsOk": false,
+                    "sourceInFrame": true,
+                    "sourceDisplayName": "Food Republic",
+                    "proSource": "",
+                    "sourceSiteUrl": "http://www.foodrepublic.com",
+                    "introVideo": {
+                        "id": "",
+                        "originalUrl": "",
+                        "hlsUrl": "",
+                        "dashUrl": "",
+                        "hasAudio": "",
+                        "snapshot": {
+                            "original": "",
+                            "resizable": ""
+                        }
+                    },
+                    "eyebrowText": "",
+                    "sourcePageUrl": "food-republic",
+                    "marketingCopy": "",
+                    "sourceHttpOk": true,
+                    "marketingImage": ""
+                },
+                "profiles": [
+                    {
+                        "profileName": "food-republic",
+                        "displayName": "Food Republic",
+                        "siteUrl": "http://www.foodrepublic.com",
+                        "pictureUrl": "https://s.yumm.ly/profile/10256-food-republic.jpg",
+                        "pageUrl": "food-republic",
+                        "description": "Exploring the new culture of food through stories, interviews, global conversations, and experiences. Inspiring happier living and better eating for everyman.",
+                        "type": "content-owner",
+                        "profileUrl": "https://www.yummly.com/page/food-republic"
+                    }
+                ],
+                "displayPrepStepsInline": ""
+            },
+            "type": "single recipe",
+            "promoted": false,
+            "proRecipe": false,
+            "recipeType": [
+                "BasicRecipe"
+            ],
+            "tracking-id": "recipe:Eggplant-Parmesan-512299,recipe,list.recipe.time.dinner,recipe.time.dinner.3-4_9-14,time",
+            "seo": {
+                "web": {
+                    "noindex": true,
+                    "canonical-term": "Eggplant-Parmesan-512299",
+                    "meta-tags": {
+                        "title": "Eggplant Parmesan Recipe | Yummly",
+                        "description": "Eggplant Parmesan With Eggs, Italian Seasoned Breadcrumbs, Grated Parmesan Cheese, Coarse Salt, Ground Black Pepper, Eggplant, Olive Oil, Tomato Sauce, Fresh Mozzarella"
+                    },
+                    "link-tags": [
+                        {
+                            "rel": "canonical",
+                            "href": "https://www.yummly.com/recipe/Eggplant-Parmesan-512299"
+                        },
+                        {
+                            "rel": "alternate",
+                            "hreflang": "en",
+                            "href": "https://www.yummly.com/recipe/Eggplant-Parmesan-512299"
+                        },
+                        {
+                            "rel": "alternate",
+                            "hreflang": "en-GB",
+                            "href": "https://www.yummly.co.uk/recipe/Eggplant-Parmesan-512299"
+                        }
+                    ],
+                    "image-url": "https://lh4.ggpht.com/xZZEuIDceef99ukMWJdhjA2ts6nb0ScfFkVtprv5JIvH1WeHrbpDFQpgbjF1oE-C0scx04Hto-doyQX4n2RZzQ"
+                },
+                "spotlightSearch": {
+                    "keywords": [
+                        "eggplant parmesan",
+                        "eggplant",
+                        "baked eggplant with mozzarella cheese",
+                        "eggplant parmesan no bread crumbs",
+                        "baked eggplant parmesan with fresh tomatoes",
+                        "eggplant parmesan with ground beef",
+                        "no fry eggplant parmesan",
+                        "healthy baked eggplant",
+                        "crumbed eggplant",
+                        "baked eggplant and mozzarella",
+                        "eggplant tomato sauce mozzarella cheese",
+                        "fried eggplant with cheese",
+                        "baked eggplant with tomato sauce and cheese",
+                        "baked eggplant with fresh mozzarella",
+                        "baked eggplant low calorie",
+                        "veggie ground round",
+                        "eggplant parmesan fresh mozzarella",
+                        "fried eggplant parmesan",
+                        "parmesan eggplant rounds",
+                        "eggplant parmesan baked not fried"
+                    ],
+                    "noindex": true
+                },
+                "firebase": {
+                    "noindex": true
+                }
+            },
+            "content": {
+                "description": "",
+                "urbSubmitters": [],
+                "tags": {
+                    "course": [
+                        {
+                            "display-name": "Main Dishes",
+                            "tag-url": "course^course-Main Dishes"
+                        }
+                    ],
+                    "cuisine": [
+                        {
+                            "display-name": "Italian",
+                            "tag-url": "cuisine^cuisine-italian"
+                        }
+                    ],
+                    "nutrition": [
+                        {
+                            "display-name": "High Protein",
+                            "tag-url": "nutrition^nutrition-high-protein"
+                        },
+                        {
+                            "display-name": "High Potassium",
+                            "tag-url": "nutrition^nutrition-high-potassium"
+                        },
+                        {
+                            "display-name": "High Iron",
+                            "tag-url": "nutrition^nutrition-high-iron"
+                        },
+                        {
+                            "display-name": "High Fiber",
+                            "tag-url": "nutrition^nutrition-high-fiber"
+                        },
+                        {
+                            "display-name": "High Calcium",
+                            "tag-url": "nutrition^nutrition-high-calcium"
+                        }
+                    ],
+                    "technique": [
+                        {
+                            "display-name": "Frying",
+                            "tag-url": "technique^technique-frying"
+                        }
+                    ]
+                },
+                "preparationSteps": "",
+                "moreContent": {
+                    "mobileSectionName": "More From Food Republic",
+                    "queryParams": {
+                        "start": 0,
+                        "authorId": "Food Republic",
+                        "id": "Eggplant-Parmesan-512299",
+                        "apiFeedType": "moreFrom"
+                    },
+                    "feed": []
+                },
+                "tagsAds": {
+                    "adtag": [
+                        {
+                            "display-name": "adtag italian",
+                            "tag-url": "adtag^adtag-italian"
+                        }
+                    ]
+                },
+                "details": {
+                    "directionsUrl": "http://www.foodrepublic.com/recipes/eggplant-parmesan-recipe/",
+                    "totalTime": "1 hr 10 min",
+                    "displayName": "Food Republic",
+                    "images": [
+                        {
+                            "hostedLargeUrl": "https://lh3.ggpht.com/xIUvH-E4dIGqclUW7RiNCryrlzA4k8Iu6HzWi0fOSwbJAJySj3DeFvHb1Roq4yV-ofDOiXdzMTXkYiHR6aJDxA=s360",
+                            "resizableImageUrl": "https://lh4.ggpht.com/xZZEuIDceef99ukMWJdhjA2ts6nb0ScfFkVtprv5JIvH1WeHrbpDFQpgbjF1oE-C0scx04Hto-doyQX4n2RZzQ",
+                            "resizableImageHeight": 413,
+                            "resizableImageWidth": 620
+                        }
+                    ],
+                    "name": "Eggplant Parmesan",
+                    "keywords": [
+                        "eggplant parmesan",
+                        "eggplant",
+                        "baked eggplant with mozzarella cheese",
+                        "eggplant parmesan no bread crumbs",
+                        "baked eggplant parmesan with fresh tomatoes",
+                        "eggplant parmesan with ground beef",
+                        "no fry eggplant parmesan",
+                        "healthy baked eggplant",
+                        "crumbed eggplant",
+                        "baked eggplant and mozzarella",
+                        "eggplant tomato sauce mozzarella cheese",
+                        "fried eggplant with cheese",
+                        "baked eggplant with tomato sauce and cheese",
+                        "baked eggplant with fresh mozzarella",
+                        "baked eggplant low calorie",
+                        "veggie ground round",
+                        "eggplant parmesan fresh mozzarella",
+                        "fried eggplant parmesan",
+                        "parmesan eggplant rounds",
+                        "eggplant parmesan baked not fried"
+                    ],
+                    "brand": "",
+                    "id": "Eggplant-Parmesan-512299",
+                    "attribution": {
+                        "html": "<a href='http://www.yummly.com/recipe/Eggplant-Parmesan-512299'>Eggplant Parmesan recipe</a> information powered by <img src='http://static.yummly.com/api-logo.png'/>",
+                        "url": "http://www.yummly.com/recipe/Eggplant-Parmesan-512299",
+                        "text": "Eggplant Parmesan recipes: information powered by Yummly",
+                        "logo": "http://static.yummly.com/api-logo.png"
+                    },
+                    "recipeId": "c207dae9-5125-4381-a73b-64e645abfc30",
+                    "numberOfServings": 4,
+                    "globalId": "4f5f4ad4-64b8-44e7-8ff9-3dcbf99552ac",
+                    "totalTimeInSeconds": 4200,
+                    "rating": 4.5
+                },
+                "relatedContent": {
+                    "mobileSectionName": "Related",
+                    "queryParams": {
+                        "start": 0,
+                        "apiFeedType": "related",
+                        "id": "recipe:Eggplant-Parmesan-512299"
+                    },
+                    "feed": []
+                },
+                "ingredientLines": [
+                    {
+                        "category": "Dairy",
+                        "amount": {
+                            "metric": {
+                                "unit": {
+                                    "id": "203f101c-fe8f-102c-a985-0030485841f8",
+                                    "name": "",
+                                    "abbreviation": "",
+                                    "plural": "",
+                                    "pluralAbbreviation": "",
+                                    "kind": "count",
+                                    "decimal": false
+                                },
+                                "quantity": 2.0
+                            },
+                            "imperial": {
+                                "unit": {
+                                    "id": "203f101c-fe8f-102c-a985-0030485841f8",
+                                    "name": "",
+                                    "abbreviation": "",
+                                    "plural": "",
+                                    "pluralAbbreviation": "",
+                                    "kind": "count",
+                                    "decimal": false
+                                },
+                                "quantity": 2.0
+                            }
+                        },
+                        "unit": "",
+                        "ingredientId": "7f618abd-9024-4c59-865c-06909f41f5d1",
+                        "categoryId": "d8efba0b-2538-4882-9298-7d8c4d175c5f",
+                        "relatedRecipeSearchTerm": [
+                            {
+                                "allowedIngredient": "eggs"
+                            }
+                        ],
+                        "ingredient": "eggs",
+                        "id": "e4a3546b-ac68-43eb-bb8d-371955b575a1",
+                        "remainder": "",
+                        "quantity": 2.0,
+                        "wholeLine": "2 eggs"
+                    },
+                    {
+                        "category": "Packaged Meals & Side Dishes",
+                        "amount": {
+                            "metric": {
+                                "unit": {
+                                    "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                                    "name": "gram",
+                                    "abbreviation": "g",
+                                    "plural": "grams",
+                                    "pluralAbbreviation": "grams",
+                                    "kind": "mass",
+                                    "decimal": true
+                                },
+                                "quantity": 120
+                            },
+                            "imperial": {
+                                "unit": {
+                                    "id": "1246463a-6e69-102c-9a8a-0030485841f8",
+                                    "name": "cup",
+                                    "abbreviation": "cup",
+                                    "plural": "cups",
+                                    "pluralAbbreviation": "cups",
+                                    "kind": "volume",
+                                    "decimal": false
+                                },
+                                "quantity": 1.0
+                            }
+                        },
+                        "unit": "cup",
+                        "ingredientId": "9bee5422-2329-482b-8b3a-a53b80825093",
+                        "categoryId": "120a65a7-17b6-435d-8f0b-6fc3060a9242",
+                        "relatedRecipeSearchTerm": [
+                            {
+                                "allowedIngredient": "Italian-style breadcrumbs"
+                            }
+                        ],
+                        "ingredient": "Italian seasoned breadcrumbs",
+                        "id": "563fa110-80f4-42f4-bd7d-fd8a66c6827b",
+                        "remainder": "",
+                        "quantity": 1.0,
+                        "wholeLine": "1 cup Italian seasoned breadcrumbs"
+                    },
+                    {
+                        "category": "Dairy",
+                        "amount": {
+                            "metric": {
+                                "unit": {
+                                    "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                                    "name": "gram",
+                                    "abbreviation": "g",
+                                    "plural": "grams",
+                                    "pluralAbbreviation": "grams",
+                                    "kind": "mass",
+                                    "decimal": true
+                                },
+                                "quantity": 100
+                            },
+                            "imperial": {
+                                "unit": {
+                                    "id": "1246463a-6e69-102c-9a8a-0030485841f8",
+                                    "name": "cup",
+                                    "abbreviation": "cup",
+                                    "plural": "cups",
+                                    "pluralAbbreviation": "cups",
+                                    "kind": "volume",
+                                    "decimal": false
+                                },
+                                "quantity": 1.0
+                            }
+                        },
+                        "unit": "cup",
+                        "ingredientId": "492229c5-247b-4de8-9379-b561f10f53df",
+                        "categoryId": "d8efba0b-2538-4882-9298-7d8c4d175c5f",
+                        "relatedRecipeSearchTerm": [
+                            {
+                                "allowedIngredient": "grated Parmesan cheese"
+                            }
+                        ],
+                        "ingredient": "grated Parmesan cheese",
+                        "id": "2315cb8f-b8c2-4886-8bfd-05a35da8e9b7",
+                        "remainder": "divided",
+                        "quantity": 1.0,
+                        "wholeLine": "1 cup grated Parmesan cheese, divided"
+                    },
+                    {
+                        "category": "Baking & Cooking",
+                        "amount": {
+                            "metric": {
+                                "unit": {
+                                    "id": "124afc0c-6e69-102c-9a8a-0030485841f8",
+                                    "name": "teaspoon",
+                                    "abbreviation": "tsp.",
+                                    "plural": "teaspoons",
+                                    "pluralAbbreviation": "tsp.",
+                                    "kind": "volume",
+                                    "decimal": false
+                                },
+                                "quantity": 0.5
+                            },
+                            "imperial": {
+                                "unit": {
+                                    "id": "124afc0c-6e69-102c-9a8a-0030485841f8",
+                                    "name": "teaspoon",
+                                    "abbreviation": "tsp.",
+                                    "plural": "teaspoons",
+                                    "pluralAbbreviation": "tsp.",
+                                    "kind": "volume",
+                                    "decimal": false
+                                },
+                                "quantity": 0.5
+                            }
+                        },
+                        "unit": "teaspoon",
+                        "ingredientId": "e8ebcbda-b9bf-453a-9394-225129d20ab9",
+                        "categoryId": "48481730-6064-11e9-8647-d663bd873d93",
+                        "relatedRecipeSearchTerm": [
+                            {
+                                "allowedIngredient": "coarse salt"
+                            }
+                        ],
+                        "ingredient": "coarse salt",
+                        "id": "ac4e71da-0223-43b9-b26e-627572145197",
+                        "remainder": "",
+                        "quantity": 0.5,
+                        "wholeLine": "1/2 teaspoon coarse salt"
+                    },
+                    {
+                        "category": "Baking & Cooking",
+                        "amount": {
+                            "metric": {
+                                "unit": {
+                                    "id": "124afc0c-6e69-102c-9a8a-0030485841f8",
+                                    "name": "teaspoon",
+                                    "abbreviation": "tsp.",
+                                    "plural": "teaspoons",
+                                    "pluralAbbreviation": "tsp.",
+                                    "kind": "volume",
+                                    "decimal": false
+                                },
+                                "quantity": 0.25
+                            },
+                            "imperial": {
+                                "unit": {
+                                    "id": "124afc0c-6e69-102c-9a8a-0030485841f8",
+                                    "name": "teaspoon",
+                                    "abbreviation": "tsp.",
+                                    "plural": "teaspoons",
+                                    "pluralAbbreviation": "tsp.",
+                                    "kind": "volume",
+                                    "decimal": false
+                                },
+                                "quantity": 0.25
+                            }
+                        },
+                        "unit": "teaspoon",
+                        "ingredientId": "8db965a6-4e60-4eca-b7f2-0f4677a19602",
+                        "categoryId": "48481730-6064-11e9-8647-d663bd873d93",
+                        "relatedRecipeSearchTerm": [
+                            {
+                                "allowedIngredient": "ground black pepper"
+                            }
+                        ],
+                        "ingredient": "ground black pepper",
+                        "id": "a77fd0e7-9460-4f41-bea5-0b421074308e",
+                        "remainder": "freshly",
+                        "quantity": 0.25,
+                        "wholeLine": "1/4 teaspoon freshly ground black pepper"
+                    },
+                    {
+                        "category": "Produce",
+                        "amount": {
+                            "metric": {
+                                "unit": {
+                                    "id": "203f101c-fe8f-102c-a985-0030485841f8",
+                                    "name": "",
+                                    "abbreviation": "",
+                                    "plural": "",
+                                    "pluralAbbreviation": "",
+                                    "kind": "count",
+                                    "decimal": false
+                                },
+                                "quantity": 1.0
+                            },
+                            "imperial": {
+                                "unit": {
+                                    "id": "203f101c-fe8f-102c-a985-0030485841f8",
+                                    "name": "",
+                                    "abbreviation": "",
+                                    "plural": "",
+                                    "pluralAbbreviation": "",
+                                    "kind": "count",
+                                    "decimal": false
+                                },
+                                "quantity": 1.0
+                            }
+                        },
+                        "unit": "",
+                        "ingredientId": "ee009cac-2c88-4747-a37c-9009cfb255ae",
+                        "categoryId": "48480f6a-6064-11e9-8647-d663bd873d93",
+                        "relatedRecipeSearchTerm": [
+                            {
+                                "allowedIngredient": "eggplant"
+                            }
+                        ],
+                        "ingredient": "eggplant",
+                        "id": "541deeaf-631d-43df-ac2a-c2743ac8889d",
+                        "remainder": "large, sliced into 8 rounds",
+                        "quantity": 1.0,
+                        "wholeLine": "1 large eggplant, sliced into 8 rounds"
+                    },
+                    {
+                        "category": "Baking & Cooking",
+                        "amount": {
+                            "metric": {
+                                "unit": {
+                                    "id": "124a0414-6e69-102c-9a8a-0030485841f8",
+                                    "name": "tablespoon",
+                                    "abbreviation": "Tbsp.",
+                                    "plural": "tablespoons",
+                                    "pluralAbbreviation": "Tbsp.",
+                                    "kind": "volume",
+                                    "decimal": false
+                                },
+                                "quantity": 4.0
+                            },
+                            "imperial": {
+                                "unit": {
+                                    "id": "124a0414-6e69-102c-9a8a-0030485841f8",
+                                    "name": "tablespoon",
+                                    "abbreviation": "Tbsp.",
+                                    "plural": "tablespoons",
+                                    "pluralAbbreviation": "Tbsp.",
+                                    "kind": "volume",
+                                    "decimal": false
+                                },
+                                "quantity": 4.0
+                            }
+                        },
+                        "unit": "tablespoon",
+                        "ingredientId": "380ccb3f-bd69-4971-a9ae-0a68768fa275",
+                        "categoryId": "48481730-6064-11e9-8647-d663bd873d93",
+                        "relatedRecipeSearchTerm": [
+                            {
+                                "allowedIngredient": "olive oil"
+                            }
+                        ],
+                        "ingredient": "olive oil",
+                        "id": "4bfb4cf4-25c6-4821-aa39-86c5bcacf778",
+                        "remainder": "",
+                        "quantity": 4.0,
+                        "wholeLine": "4 tablespoons olive oil"
+                    },
+                    {
+                        "category": "Pasta & Grains",
+                        "amount": {
+                            "metric": {
+                                "unit": {
+                                    "id": "1248a02e-6e69-102c-9a8a-0030485841f8",
+                                    "name": "liter",
+                                    "abbreviation": "liter",
+                                    "plural": "liters",
+                                    "pluralAbbreviation": "liters",
+                                    "kind": "volume",
+                                    "decimal": true
+                                },
+                                "quantity": 0.71
+                            },
+                            "imperial": {
+                                "unit": {
+                                    "id": "1246463a-6e69-102c-9a8a-0030485841f8",
+                                    "name": "cup",
+                                    "abbreviation": "cup",
+                                    "plural": "cups",
+                                    "pluralAbbreviation": "cups",
+                                    "kind": "volume",
+                                    "decimal": false
+                                },
+                                "quantity": 3.0
+                            }
+                        },
+                        "unit": "cup",
+                        "ingredientId": "b258a894-9ac1-40f7-9512-82735067409a",
+                        "categoryId": "e6d6ce43-2b19-417f-9e37-da6da6c57de4",
+                        "relatedRecipeSearchTerm": [
+                            {
+                                "allowedIngredient": "tomato sauce"
+                            }
+                        ],
+                        "ingredient": "tomato sauce",
+                        "id": "13728a10-0565-4333-abb5-4f186c17960f",
+                        "remainder": "",
+                        "quantity": 3.0,
+                        "wholeLine": "3 cups tomato sauce"
+                    },
+                    {
+                        "category": "Dairy",
+                        "amount": {
+                            "metric": {
+                                "unit": {
+                                    "id": "12485d26-6e69-102c-9a8a-0030485841f8",
+                                    "name": "gram",
+                                    "abbreviation": "g",
+                                    "plural": "grams",
+                                    "pluralAbbreviation": "grams",
+                                    "kind": "mass",
+                                    "decimal": true
+                                },
+                                "quantity": 454
+                            },
+                            "imperial": {
+                                "unit": {
+                                    "id": "12493192-6e69-102c-9a8a-0030485841f8",
+                                    "name": "pound",
+                                    "abbreviation": "lb.",
+                                    "plural": "pounds",
+                                    "pluralAbbreviation": "lb.",
+                                    "kind": "mass",
+                                    "decimal": false
+                                },
+                                "quantity": 1.0
+                            }
+                        },
+                        "unit": "pound",
+                        "ingredientId": "f6376aa9-150f-408a-bd2c-bbf5f4e3829b",
+                        "categoryId": "d8efba0b-2538-4882-9298-7d8c4d175c5f",
+                        "relatedRecipeSearchTerm": [
+                            {
+                                "allowedIngredient": "fresh mozzarella"
+                            }
+                        ],
+                        "ingredient": "fresh mozzarella",
+                        "id": "1da6f10b-b2f8-4962-a72a-736168768616",
+                        "remainder": "sliced into 8 pieces",
+                        "quantity": 1.0,
+                        "wholeLine": "1 pound fresh mozzarella, sliced into 8 pieces"
+                    }
+                ],
+                "unitSystem": "imperial",
+                "reviews": {
+                    "mobileSectionName": "Reviews",
+                    "totalReviewCount": 10,
+                    "averageRating": 4.6,
+                    "reviews": [],
+                    "thisUserReview": "",
+                    "sortBy": "create-time"
+                },
+                "relatedProducts": {
+                    "mobileSectionName": "Essential Tools",
+                    "queryParams": {
+                        "start": 0,
+                        "apiFeedType": "related",
+                        "id": "recipe:Eggplant-Parmesan-512299",
+                        "relatedContentType": "product"
+                    },
+                    "feed": []
+                },
+                "preparationStepCount": 0,
+                "nutrition": {
+                    "mobileSectionName": "Nutrition",
+                    "nutritionEstimates": [
+                        {
+                            "attribute": "FAT_KCAL",
+                            "value": 500.0,
+                            "unit": {
+                                "name": "calorie",
+                                "abbreviation": "kcal",
+                                "plural": "calories",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 500.0,
+                                "unit": "",
+                                "percentDailyValue": ""
+                            }
+                        },
+                        {
+                            "attribute": "K",
+                            "value": 1.14,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 1150.0,
+                                "unit": "mg",
+                                "percentDailyValue": 33
+                            }
+                        },
+                        {
+                            "attribute": "FASAT",
+                            "value": 23.86,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 24.0,
+                                "unit": "g",
+                                "percentDailyValue": 120
+                            }
+                        },
+                        {
+                            "attribute": "FE",
+                            "value": 0.0,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": "",
+                                "unit": "",
+                                "percentDailyValue": 25.0
+                            }
+                        },
+                        {
+                            "attribute": "SUGAR",
+                            "value": 23.52,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 24.0,
+                                "unit": "g",
+                                "percentDailyValue": ""
+                            }
+                        },
+                        {
+                            "attribute": "FIBTG",
+                            "value": 11.39,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 11.0,
+                                "unit": "g",
+                                "percentDailyValue": 44
+                            }
+                        },
+                        {
+                            "attribute": "PROCNT",
+                            "value": 47.12,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 47.0,
+                                "unit": "g",
+                                "percentDailyValue": ""
+                            }
+                        },
+                        {
+                            "attribute": "CHOCDF",
+                            "value": 59.12,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 59.0,
+                                "unit": "g",
+                                "percentDailyValue": 20
+                            }
+                        },
+                        {
+                            "attribute": "CHOLE",
+                            "value": 0.22,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 220.0,
+                                "unit": "mg",
+                                "percentDailyValue": 73
+                            }
+                        },
+                        {
+                            "attribute": "CA",
+                            "value": 0.97,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": "",
+                                "unit": "",
+                                "percentDailyValue": 100.0
+                            }
+                        },
+                        {
+                            "attribute": "VITA_IU",
+                            "value": 2648.94,
+                            "unit": {
+                                "name": "IU",
+                                "abbreviation": "IU",
+                                "plural": "IU",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": "",
+                                "unit": "",
+                                "percentDailyValue": 50.0
+                            }
+                        },
+                        {
+                            "attribute": "ENERC_KCAL",
+                            "value": 918.51,
+                            "unit": {
+                                "name": "calorie",
+                                "abbreviation": "kcal",
+                                "plural": "calories",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 920.0,
+                                "unit": "",
+                                "percentDailyValue": ""
+                            }
+                        },
+                        {
+                            "attribute": "VITC",
+                            "value": 0.01,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": "",
+                                "unit": "",
+                                "percentDailyValue": 10.0
+                            }
+                        },
+                        {
+                            "attribute": "FAT",
+                            "value": 55.48,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 55.0,
+                                "unit": "g",
+                                "percentDailyValue": 85
+                            }
+                        },
+                        {
+                            "attribute": "NA",
+                            "value": 2.74,
+                            "unit": {
+                                "name": "gram",
+                                "abbreviation": "g",
+                                "plural": "grams",
+                                "decimal": true
+                            },
+                            "display": {
+                                "value": 2740.0,
+                                "unit": "mg",
+                                "percentDailyValue": 114
+                            }
+                        }
+                    ]
+                },
+                "yums": {
+                    "count": 3966,
+                    "this-user": "none"
+                }
+            }
+        }
+    ],
+    "seo": {
+        "web": {
+            "noindex": true
+        },
+        "spotlightSearch": {
+            "noindex": true
+        },
+        "firebase": {
+            "noindex": true
+        }
+    }
+}
